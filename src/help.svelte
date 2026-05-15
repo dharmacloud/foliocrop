@@ -1,4 +1,4 @@
-<pre><span class="title">FolioCrop圖框裁切</span> 2023.7.22<a href="https://youtu.be/YxdzYUatZvI" target="_new">操作示範</a> <a href="https://drive.google.com/file/d/1b_0Qzd4mtDsOQlov0GvDQdI7uzM7UWfR/view?usp=sharing" target="_new">測試文件</a>
+<pre><span class="title">FolioCrop圖框裁切</span> 2026.5.15<a href="https://www.bilibili.com/video/BV1ti5e62EUg/" target="_new">操作示範</a>
 💾儲存座標檔(Alt-S) ➖刪除圖框(Alt-D) ♻️重置圖框(Alt-R)  📐載入座標檔(Alt-L)
 👁預覽調整效果　已完成折數  北藏/南藏　切換  拉條改變角度。下一拍(Enter)
 一開始按F11進入全螢幕模式。按 Ctrl + - 調整好瀏覽器的解析度，無須經常改動。
